@@ -24,4 +24,4 @@ The robot you design in this project will be used as a base model for all your u
 --------------------------------------------------
 This is the demo video.
 
-![](https://imgchr.com/i/V3H94U)
+[![V3H94U.md.gif](https://s2.ax1x.com/2019/06/01/V3H94U.md.gif)](https://imgchr.com/i/V3H94U)
