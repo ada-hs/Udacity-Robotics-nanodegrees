@@ -1,6 +1,7 @@
 This is my second project of Robotics NaNo degree in Udacity.
+
 --------------------------------------------------------------------
-Project Description
+### Project Description
 Summary of Tasks
 In this project, you should create two ROS packages inside your catkin_ws/src: the drive_bot and the ball_chaser. Here are the steps to design the robot, house it inside your world, and program it to chase white-colored balls:
 
@@ -21,4 +22,5 @@ The robot you design in this project will be used as a base model for all your u
 
 --------------------------------------------------
 This is the demo video.
-![avatar](blob:https://app.xunjiepdf.com/bb347f79-7334-4d45-9c9d-5e1348b52541)
+
+![](https://app.xunjiepdf.com/bb347f79-7334-4d45-9c9d-5e1348b52541)
