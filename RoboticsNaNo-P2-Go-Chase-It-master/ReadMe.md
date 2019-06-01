@@ -12,7 +12,8 @@ Design a differential drive robot with the Unified Robot Description Format. Add
 House your robot inside the world you built in the Build My World project.
 Add a white-colored ball to your Gazebo world and save a new copy of this world.
 The world.launch file should launch your world with the white-colored ball and your robot.
-ball_chaser:
+
+- ball_chaser:
 
 Create a ball_chaser ROS package to hold your C++ nodes.
 Write a drive_botC++ node that will provide a ball_chaser/command_robot service to drive the robot by controlling its linear x and angular z velocities. The service should publish to the wheel joints and return back the requested velocities.
@@ -23,4 +24,4 @@ The robot you design in this project will be used as a base model for all your u
 --------------------------------------------------
 This is the demo video.
 
-![](https://app.xunjiepdf.com/bb347f79-7334-4d45-9c9d-5e1348b52541)
+![](blob:https://app.xunjiepdf.com/bb347f79-7334-4d45-9c9d-5e1348b52541)
